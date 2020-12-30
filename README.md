@@ -1,1 +1,1 @@
-# IMG
+# Blog IMG
